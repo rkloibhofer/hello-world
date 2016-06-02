@@ -9,7 +9,7 @@ namespace WindowsFormsApplicationTest
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application. Only a test
         /// </summary>
         [STAThread]
         static void Main()
